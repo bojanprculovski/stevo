@@ -1,4 +1,4 @@
-package Sorting;
+package sorting;
 import java.util.Random;
 
 
@@ -15,6 +15,7 @@ public class FillArray {
 		for(int i=0;i<x;i++){
 			System.out.print(a[i] + " ");
 		}
+		System.out.println();
 	}
 }
 

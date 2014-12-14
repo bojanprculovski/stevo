@@ -1,4 +1,4 @@
-package Sorting;
+package sorting;
 
 public class SortArray {
 	private int temporary;
@@ -19,5 +19,7 @@ public class SortArray {
 		for(int i=1;i<=x;i++){
 			System.out.print(a[i] + " ");
 		}
+		System.out.println();
 	}
+	
 }
