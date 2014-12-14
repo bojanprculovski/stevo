@@ -1,4 +1,4 @@
 stevo
 =====
 
-First java project!
+Bubble sort, Java
